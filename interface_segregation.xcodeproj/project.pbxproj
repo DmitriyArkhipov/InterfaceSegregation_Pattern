@@ -14,6 +14,7 @@
 		819B7C411D55D48B0080C5D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 819B7C401D55D48B0080C5D5 /* Assets.xcassets */; };
 		819B7C441D55D48B0080C5D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 819B7C421D55D48B0080C5D5 /* LaunchScreen.storyboard */; };
 		819B7C4E1D55D8280080C5D5 /* MobileInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = 819B7C4D1D55D8280080C5D5 /* MobileInterface.m */; };
+		81FCF80C1D8B0C6100A808BB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 81FCF80B1D8B0C6100A808BB /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		819B7C451D55D48B0080C5D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		819B7C4C1D55D8150080C5D5 /* MobileInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileInterface.h; sourceTree = "<group>"; };
 		819B7C4D1D55D8280080C5D5 /* MobileInterface.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileInterface.m; sourceTree = "<group>"; };
+		81FCF80B1D8B0C6100A808BB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		819B7C281D55D48A0080C5D5 = {
 			isa = PBXGroup;
 			children = (
+				81FCF80B1D8B0C6100A808BB /* LICENSE */,
 				819B7C331D55D48A0080C5D5 /* interface_segregation */,
 				819B7C321D55D48A0080C5D5 /* Products */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				819B7C441D55D48B0080C5D5 /* LaunchScreen.storyboard in Resources */,
 				819B7C411D55D48B0080C5D5 /* Assets.xcassets in Resources */,
+				81FCF80C1D8B0C6100A808BB /* LICENSE in Resources */,
 				819B7C3F1D55D48B0080C5D5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +320,7 @@
 				819B7C4A1D55D48B0080C5D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
